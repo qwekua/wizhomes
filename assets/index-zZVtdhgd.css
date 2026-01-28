@@ -1,0 +1,1 @@
+@tailwind base;@tailwind components;@tailwind utilities;body{font-family:Inter,sans-serif}.hide-scrollbar::-webkit-scrollbar{display:none}.hide-scrollbar{-ms-overflow-style:none;scrollbar-width:none}.animate-pulse-slow{animation:pulse 4s cubic-bezier(.4,0,.6,1) infinite}
